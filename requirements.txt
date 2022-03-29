@@ -1,0 +1,8 @@
+Cython==0.29.28
+numpy==1.21.5
+opencv-python==4.5.5.64
+Pillow==9.0.1
+pyserial==3.5
+torch @ file:///home/pi/Desktop/torch-1.8.0a0%2B56b43f4-cp37-cp37m-linux_armv7l.whl
+torchvision @ file:///home/pi/Desktop/torchvision-0.9.0a0%2B8fb5838-cp37-cp37m-linux_armv7l.whl
+typing_extensions==4.1.1
